@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('fondomama.jpg'); /* Reemplaza 'background.jpg' con la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    color: #009f8dff;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #ffff;
+    
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+    color: #ffff;
+  }
+  
+  nav ul li a {
+    color: #ffff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    border-radius: 10px;
+    color: #fff;
+  }
+  
+  section h2 {
+    margin-top: 0;
+    color: #fff;
+  }
+  
+  .team-member {
+    margin-bottom: 30px;
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff5;
+    
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #0005;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }

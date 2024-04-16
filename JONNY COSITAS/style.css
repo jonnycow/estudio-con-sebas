@@ -1,0 +1,57 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('kelly.jpg'); 
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.0); 
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3); 
+}
+.titulo {
+    text-align: center;
+    font-size: 32px;
+    color: #e74c3c;
+    margin-bottom: 20px;
+    
+}
+.contenido {
+    font-size: 20px;
+    color: lightseagreen;
+    margin-bottom: 20px;
+}
+.firma {
+    font-style: italic;
+}
+.button-container {
+    text-align: center;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.button:hover {
+    background-color: #c0392b;
+}
+
+p1 {
+    color: lightcoral;
+}
+
+br {
+    color: lightcoral;
+}
+

@@ -1,0 +1,13 @@
+div {
+    background:red;
+    width: 150PX;
+    text-align: CENTER;
+    margin: auto;
+}
+
+div {
+    border-width: 3PX;
+    border-color: black;
+    border-style: solid;
+    border-radius: 4PX;
+}
