@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: auto;
+    max-width: 1080px;
     padding: 0;
     background-image: url('fondomama.jpg'); /* Reemplaza 'background.jpg' con la ruta de tu imagen de fondo */
     background-size: cover;
